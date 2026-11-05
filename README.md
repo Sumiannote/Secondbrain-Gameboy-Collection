@@ -10,6 +10,10 @@ Follow Yuki from the familiar routines of city life into the quiet of the mounta
 
 [Play Second Brain on itch.io](https://evernotebot.itch.io/secondbrain)
 
+## Screenshots
+
+![Chapter select screen](image/2.jpg)
+
 ## The experience
 
 - **A personal journey:** Travel with Yuki from the city to the mountains.
