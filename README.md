@@ -6,6 +6,10 @@
 
 Follow Yuki from the familiar routines of city life into the quiet of the mountains. Through conversation, observation, and reflection, explore a four-tone pixel-art world and uncover a story about memory, emotions, and the paths that lead us to understand ourselves.
 
+## Play the game
+
+[Play Second Brain on itch.io](https://evernotebot.itch.io/secondbrain)
+
 ## The experience
 
 - **A personal journey:** Travel with Yuki from the city to the mountains.
